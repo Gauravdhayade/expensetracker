@@ -1,11 +1,11 @@
-Tech Stack: Spring Boot · React.js · MySQL · Hibernate · REST APIs · JWT
+Tech Stack:- Spring Boot · React.js · MySQL · Maven · REST APIs
 
-A secure and scalable digital onboarding system that enables users to complete KYC verification and registration through a modern web interface.
-The system implements role-based authentication, API integration, and real-time data validation.
+A responsive expense management web app allowing users to record, analyze, and visualize daily expenses through an intuitive interface.
+It combines a Spring Boot backend and a React frontend for seamless real-time synchronization.
 
 Key Features:-
-
-User registration & onboarding with step-by-step KYC verification
-JWT-based authentication and Spring Security for access control
-RESTful APIs with Spring Boot + Hibernate backend
-99.9% uptime with optimized queries and indexing
+Add, edit, and delete daily expenses
+Real-time expense summary and analytics dashboard
+REST API integration between backend and frontend
+Fully responsive design improving user experience by 30%
+Monthly insights for better financial visibility
