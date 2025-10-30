@@ -4,8 +4,8 @@ A responsive expense management web app allowing users to record, analyze, and v
 It combines a Spring Boot backend and a React frontend for seamless real-time synchronization.
 
 Key Features:-
-Add, edit, and delete daily expenses.
-Real-time expense summary and analytics dashboard.
-REST API integration between backend and frontend.
-Fully responsive design improving user experience by 30%.
+Add, edit, and delete daily expenses, 
+Real-time expense summary and analytics dashboard, 
+REST API integration between backend and frontend, 
+Fully responsive design improving user experience by 30%, 
 Monthly insights for better financial visibility.
